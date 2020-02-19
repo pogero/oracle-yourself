@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Oracle Yourself
 ---
 Projekt, w którym zapisuję kolejne kroki podczas nauki SQL. Przy okazji uczę się githuba.
