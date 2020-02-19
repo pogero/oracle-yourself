@@ -15,3 +15,6 @@ Po zainstalowaniu Oracle Virtual Box tworzymy za jego pomocą maszynę wirtualn�
 1. Pobieramy instalkę Oracle Virtual Box odpowiednią dla naszego podstawowego systemu operacyjnego
 
     [https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html](https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html)
+
+2. Instalujemy program na komputerze
+3. 
