@@ -1,8 +1,5 @@
     COde SQL
----
-layout: page
-title: Oracle Yourself
----
+
 Projekt, w którym zapisuję kolejne kroki podczas nauki SQL. Przy okazji uczę się githuba.
 
 ### [1. Oracle Virtual Box](posty/01_oracle_virtual_box.md)
