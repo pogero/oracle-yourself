@@ -1,3 +1,6 @@
+---
+title: Oracle yourself
+---
     COde SQL
 
 Projekt, w którym zapisuję kolejne kroki podczas nauki SQL. Przy okazji uczę się githuba.
