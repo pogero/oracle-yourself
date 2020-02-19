@@ -1,5 +1,4 @@
-Projekt do zapisywania postepów w nauce SQL, a przy okazji nauki githuba.
-Kolejne kroki 
+Projekt, w którym zapisuję kolejne kroki podczas nauki SQL. Przy okazji uczę się githuba.
 
 ## [1. Oracle Virtual Box](posty/01_oracle_virtual_box.md)
 Zaczynamy od poznania i instalacji programu Virual Box i utworzenia wirtualnego serwera.
