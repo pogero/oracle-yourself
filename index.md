@@ -1,8 +1,5 @@
-## Oracle Yourself
-
 Projekt do zapisywania postepów w nauce SQL, a przy okazji nauki githuba.
-
-Menu:
+Kolejne kroki 
 
 ## [1. Oracle Virtual Box](posty/01_oracle_virtual_box.md)
 Zaczynamy od poznania i instalacji programu Virual Box, aby na jednym komputrze mieć kilka mszyn wirtualnych.
