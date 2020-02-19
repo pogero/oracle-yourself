@@ -1,5 +1,6 @@
 ## 01 Oracle Virtual Box
 
+Nie chcąc korzystać z podstawowej opcji, czyli instalacji Oracle Express Edition, najpierw zainstalujemy bazę danych na serwerze.
 Wygodnym sposobem odzwierciedlającym rzeczywistość, gdzie mamy bazę danych na serwerze i łaczymy się z nią za pomocą naszego komputera jest instalacja Oracle Linux na wirtualnej maszynie. Wirtualna mszyna będzie udawać serwer, a pracować bedziemy mogli na naszym podstawowym komputerze z preferowanym systemem operacyjnym. A wszystko to na jednym komputerze.
 Wymaga to zainstalowania Oracle Virtual Box. Program pozwala używać wielu systemów operacyjnych na komputerach Windows, linux, Mac OS lub Oracle Solaris. Dzięki temu na jednym komputerze będziemy mogli odpalić Oracle Linux, na ktorym zainstalujemy bazę danych Oracle.
 
