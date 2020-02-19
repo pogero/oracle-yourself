@@ -1,8 +1,4 @@
----
-layout: page
-title: "Oracle yourself"
-permalink: https://pogero.github.io/oracle-yourself/
----
+
 Projekt, w którym zapisuję kolejne kroki podczas nauki SQL. Przy okazji uczę się githuba.
 
 ### [1. Oracle Virtual Box](posty/01_oracle_virtual_box.md)
