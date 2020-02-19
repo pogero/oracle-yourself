@@ -9,3 +9,4 @@ Zaczynamy od poznania i instalacji programu Virual Box i utworzenia wirtualnego 
 Na maszynie wirtualnej instalujemy Oracle Linux, który będzie hostem bazy danych.
 ### 3. Instalacja bazy danych Oracle
 W końcu instalujemy bazę danych i łączymy się z Windows do bazy danych na wirtualnej maszynie.
+{{ page.title }}
