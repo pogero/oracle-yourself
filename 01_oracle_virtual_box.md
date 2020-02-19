@@ -1,0 +1,13 @@
+Instalacja Oracle Linux na wirtualnej maszynie wymaga zainstalowania Oracle Virtual Box. Program pozwala używać wielu systemów operacyjnych na komputerach Windows, linux, Mac OS lub Oracle Solaris. Dzięki temu na jednym komputerze będziemy mogli odpalić Oracle Linux, na ktorym zainstalujemy bazę danych Oracle.
+
+Więcej o samym programie:
+
+[O Virtual Boxie na stronie Oracle](https://www.oracle.com/pl/virtualization/virtualbox/)
+
+[O Virtual Boxie na Wikipedii](https://en.wikipedia.org/wiki/VirtualBox)
+
+Po zainstalowaniu Oracle Virtual Box tworzymy za jego pomocą maszynę wirtualną, na której zainstalujemy Oracle Linux.
+
+1. Pobieramy instalkę Oracle Virtual Box odpowiednią dla naszego podstawowego systemu operacyjnego
+
+    [oracle.com/pl/virtualization/virtualbox/](oracle.com/pl/virtualization/virtualbox/)
